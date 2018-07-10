@@ -8,4 +8,4 @@ for i in str:
 if(count>=1):
     print("given string contains atleast one alphabet")
 else:
-    print("given string doesn't contain any  alphabet")
+    print("given string doesn't contain any  alphabet"
