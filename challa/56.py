@@ -11,9 +11,12 @@ def peek(list):
     print(list[0])
     print(list)
 def quit(list):
-    print(quit())
+    print(quit)
 
 push(list)
 pop(list)
 peek(list)
 quit(list)
+
+s="manikanta"
+print(s)
