@@ -1,0 +1,146 @@
+commit d70f51f9235b04cee583522ab7987d5d2630832d
+Merge: afd0c0a cb52e5b
+Author: manikanta <manikantachallao5@gmail.com>
+Date:   Wed Jul 11 13:00:10 2018 +0530
+
+    Merge branch 'master' of https://github.com/bhavani465/sample_rep
+
+commit afd0c0ab40897d3f3ee5709cdb94d202f532eda8
+Merge: 83aeeba fedb69f
+Author: manikanta <manikantachallao5@gmail.com>
+Date:   Wed Jul 11 12:53:58 2018 +0530
+
+    Merge branch 'master' of https://github.com/mpigelati/Python_adb
+
+commit 83aeeba6bb608c8b873d77abdcde0eaa76a36540
+Author: manikanta <manikantachallao5@gmail.com>
+Date:   Wed Jul 11 12:27:08 2018 +0530
+
+    mani
+
+commit d07f7ddbc635dd3c531e74f231c265c07150e914
+Merge: cf1951f e8aa460
+Author: Manikanta Kumar Challa <machalla@IM-PC-238.local>
+Date:   Wed Jul 11 11:32:20 2018 +0530
+
+    first commit
+
+commit cf1951f9011a650869f99216fdbf42333d3fb775
+Author: Manikanta Kumar Challa <machalla@IM-PC-238.local>
+Date:   Tue Jul 10 18:47:16 2018 +0530
+
+    first commit
+
+commit e8aa46001ce01ea5f795a8e8c6f7558906caca0e
+Author: Manoj Kumar <manoj.alluri00@gmail.com>
+Date:   Tue Jul 10 18:33:47 2018 +0530
+
+    third commit
+
+commit c361016bd530ab47445e6657df79acb594d4e697
+Author: Manoj Kumar <manoj.alluri00@gmail.com>
+Date:   Tue Jul 10 11:33:01 2018 +0530
+
+    intitial commit
+
+commit cb52e5bf70aaba6c1ebc3e31ef5efacebd3732f5
+Author: bhavani <abhavani465@gmail.com>
+Date:   Wed Jun 27 11:04:41 2018 +0530
+
+    palindrom...
+
+commit fedb69f51ef3e43fb79c3ce22b17a541fe934d16
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Tue Sep 19 12:47:49 2017 +0530
+
+    doing some modification i n meta function
+
+commit 57cf72e46c5191608188f84c82b96a06ab4a32f6
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Tue Sep 19 10:57:26 2017 +0530
+
+    adb shell is working and aable to find meta in devices
+
+commit 57061d5148d9e12b2e9f5d7e98dd26c86bcf53b0
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Mon Sep 18 18:35:43 2017 +0530
+
+    some issue in adb shell
+
+commit 77e0f1f744d2435f00df21a88590d61bfd734db7
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Sun Sep 17 19:33:58 2017 +0530
+
+    started working on adb shekk
+
+commit 2496391e20386e897762f646e01ced0dba58bad2
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Sun Sep 17 19:23:30 2017 +0530
+
+    adb devices and  adb rooy  is working
+
+commit 49b094b4371327968ac348350688b7a8c30048f9
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Fri Sep 15 23:55:11 2017 +0530
+
+    adb devices,adb root is working
+
+commit 43ad5a5da785606b8b25852afdebf975b6f006bd
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Fri Sep 15 20:23:45 2017 +0530
+
+    basic structure is finished
+
+commit 433a9c453e5d69a08c3b49fd81ef8124acf1df98
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Thu Sep 14 22:44:45 2017 +0530
+
+    able to detect adb devices
+
+commit 9a648b68594a85aaa8ceab10ddf7f0e53312b226
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Thu Sep 14 17:10:22 2017 +0530
+
+    structure is created
+
+commit 6983bbc6d9276da10865c2340b14af7f2cceea95
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Wed Sep 13 23:52:51 2017 +0530
+
+    adding few more lines to adb
+
+commit c593f66e670eda92668026e1d46502535ede2bb4
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Wed Sep 13 16:36:02 2017 +0530
+
+    basic structure is created
+
+commit ef2ba4df5f6f242bdc4bb25c493fd119dcbc75e3
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Tue Sep 12 15:38:50 2017 +0530
+
+    able to import module
+
+commit 6607bf1cc656a31e14c7d2c838c137923096e14b
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Tue Sep 12 15:28:43 2017 +0530
+
+    importing sample class module
+
+commit 8562b14d568fe405c078d8c23ab8d6253cc7a7b7
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Mon Sep 11 22:45:47 2017 +0530
+
+    started coding in adb
+
+commit 301db31eb5a3cc8ee3cd3dd97930b465e388f39e
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Mon Sep 11 22:07:06 2017 +0530
+
+    adding new files to repo
+
+commit b4baa7d4b9c0e9ce8c155df7f1d24154474e33a3
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Mon Sep 11 14:26:20 2017 +0530
+
+    starting new project for ADB
