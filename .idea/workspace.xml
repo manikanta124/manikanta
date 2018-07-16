@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="329f1765-b8ed-4b80-838f-31d257df06cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Task/Python_adb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/clone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/clone2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/clone3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/logcat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/logcat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/logs.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/mani.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challa/Python_adb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challa/complete_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challa/json1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challa/json2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challa/json_format.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challa/log.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challa/text_to_json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mani.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_adb/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_adb/fastboot.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/M_adb/myadb.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/Temp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/sample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task/Python_adb" beforeDir="false" afterPath="$PROJECT_DIR$/Task/Python_adb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,8 +28,8 @@
       <file leaf-file-name="complete_task.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/challa/complete_task.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="44" />
+            <state relative-caret-position="315">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -846,8 +822,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/challa/complete_task.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="44" />
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
