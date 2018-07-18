@@ -9,3 +9,4 @@ exe_cmd("git clone https://github.com/mpigelati/Python_adb")
 exe_cmd("cd Python_adb")
 
 #exe_cmd("ls")
+#manikanta
