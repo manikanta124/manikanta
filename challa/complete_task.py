@@ -26,7 +26,7 @@ if os.path.isdir("Python_adb"):
     os.chdir("/Users/machalla/Documents/built_integrations_programs/Task/Python_adb")
     git_pull()
 else:
-    print("does not exist")
+    print(" file does not exist")
     git_clone(s1)
     os.chdir("/Users/machalla/Documents/built_integrations_programs/Task/Python_adb")
 
@@ -36,7 +36,7 @@ execute_shell_command(s)
 l1=[]
 l2=[]
 d={}
-jp=open("js1.json","w")
+jp=open("jss1.json","w")
 f=open("/Users/machalla/Documents/built_integrations_programs/Task/Python_adb/test.txt","r")
 for line in f.readlines():
     if "commit" in line and len(d)!=0:

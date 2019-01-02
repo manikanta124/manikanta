@@ -11,12 +11,11 @@ buffer=file.readlines();
 #s=dict(buffer)
 #print(s)
 y={}
-y=buffer.strip()
 print(x)
-"""for line in buffer:
+for line in buffer:
     key,value=line.strip().split(" ")
     y[key].append(value)
-print(y) """   
+print(y)  
 
 """y = {} 
 infile = open("stuff.txt", "r") 
